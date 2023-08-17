@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "ProDev22",
+      "email": "prodev22@prodev22.com",
+      "secretkey": "oo",
+      "key": "oo",
+      "userType": "guest",
+      "status": "active"
+    }
+  ],
+  "category": [
+    {
+      "category": "Fiction",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "category": "Business books",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "category": "Children's literature",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "category": "Psychology books",
+      "status": "active",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "isbn": "978-9943-23-223-5",
+      "title": "Latte omili",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/298124a8c14f2fd393bd11b4f643603c2023020309521141036WXt5YHNAJr.jpg.webp",
+      "author": "Rahimjon Qudratov",
+      "published": "2022",
+      "status": "active",
+      "category": "Fiction",
+      "page": 236,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "isbn": "978-9943-23-224-2",
+      "title": "Yapon zobiti. Yutaro Todaning asirlikda boshdan kechirganlari",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/3240457561e8153779adc521e1e7ff6c20230504161141745118rtzw5LJgs.jpg.webp",
+      "author": "Muqaddis Do'stmatov",
+      "published": "2023",
+      "pages": "",
+      "status": "active",
+      "category": "Fiction",
+      "page": 432
+    },
+    {
+      "id": 3,
+      "isbn": "978-9943-23-198-6",
+      "title": "Katta o'yin. Ikki imperiya to'qnashuvi",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/fc452d063a72e0824cacf90a32c3e3582022101718250210925lKUsokqUPj.jpg.webp",
+      "author": "Shodiyor Nishonboyev",
+      "published": "2022",
+      "pages": "",
+      "status": "active",
+      "category": "Fiction",
+      "page": 744
+    },
+    {
+      "id": 4,
+      "isbn": "978-9943-23-193-1",
+      "title": "Eljernonga atalgan gullar",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/da437bc79f2fdb60f7d9f0d518500ca22022111012363689240b1JJqh82L6.jpeg",
+      "author": "Mushtari Mamadaliyeva",
+      "published": "2021",
+      "pages": "",
+      "status": "active",
+      "category": "Fiction",
+      "page": 260
+    },
+    {
+      "id": 5,
+      "isbn": "978-9967-9183-3-7",
+      "title": "Boy va kambag‘al odamlarning fikrlash strategiyasi",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/a0160709701140704575d499c997b6ca2021072913264155610nnNqdCTG5g.jpg.webp",
+      "author": "Saidmurod Davlatov",
+      "published": "2019",
+      "pages": "",
+      "status": "active",
+      "category": "Business books",
+      "page": 308
+    },
+    {
+      "id": 6,
+      "isbn": "9789943719576",
+      "title": "Yuksaklik sari tasodif bo'lmagan 100 ta uchrashuv",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/c9db266c7fdfff9d940ea69da048274c2022060913324933511xbfs5rGBc0.jpg.webp",
+      "author": "Otabek Mahkamov",
+      "published": "2022",
+      "pages": "",
+      "status": "active",
+      "category": "Business books",
+      "page": 680
+    },
+    {
+      "id": 7,
+      "isbn": "223-76-41894-32-7",
+      "title": "Boy ota, kambag‘al ota",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/23af4e005726f6b4852157fd30cd327c2021021016164681605SXUEy8Xzph.jpg.webp",
+      "author": "Robert Kiyosaki",
+      "published": "2021",
+      "pages": "",
+      "status": "active",
+      "category": "Business books",
+      "page": 168
+    },
+    {
+      "id": 8,
+      "isbn": "978-9943-23-173-3",
+      "title": "Henri Ford: Mening hayotim",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/01083da2df15d6ebfe62186418a768632020110619522239966wtsBWUg1qj.jpg.webp",
+      "author": "Henri Ford",
+      "published": "2021",
+      "pages": "",
+      "status": "active",
+      "category": "Business books",
+      "page": 291
+    },
+    {
+      "id": 9,
+      "isbn": "978-9943-7390-2-4",
+      "title": "Uzunpaypoq Peppi",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/d542599794c1cf067d90638b5d3911f32021122612351883428ookK5ZLcot.jpg.webp",
+      "author": "Астрид Линдгрен",
+      "published": "2021",
+      "pages": "",
+      "status": "active",
+      "category": "Children's literature",
+      "page": 128
+    },
+    {
+      "id": 10,
+      "isbn": "978-9943-5367-5-3",
+      "title": "Garri Potter va olov kuboki",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/5e15c167e6240.jpg.webp",
+      "author": "Dolimov Shokir Zokirovich",
+      "published": "2019",
+      "pages": "",
+      "status": "active",
+      "category": "Children's literature",
+      "page": 720
+    },
+    {
+      "id": 11,
+      "isbn": "hgf",
+      "title": "hgf",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/5e15c167e6240.jpg.webp",
+      "author": "Астрид Линдгрен",
+      "published": "2021",
+      "pages": "",
+      "status": "active",
+      "category": "Fiction",
+      "page": 5
+    },
+    {
+      "id": 12,
+      "isbn": "Demo",
+      "title": "Demo",
+      "cover": "https://assets.asaxiy.uz/product/items/desktop/298124a8c14f2fd393bd11b4f643603c2023020309521141036WXt5YHNAJr.jpg.webp",
+      "author": "ProDev22",
+      "published": "2021",
+      "pages": "",
+      "status": "active",
+      "category": "Fiction",
+      "page": 2
+    }
+  ]
+}
